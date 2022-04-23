@@ -4,7 +4,7 @@
 
 ### Live site at https://seaexe.github.io/Random-Password-Gen/
 
-### Link to Screenshot ./*******************
+### Link to Screenshot ./assets/screenshot.PNG
 
 ### Function
 

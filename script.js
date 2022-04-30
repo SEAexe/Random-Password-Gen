@@ -74,6 +74,7 @@ function writePassword() {
     specialCharacters = confirm("Special Characters?", specialCharacters);
   } else { 
     alert("Invalid length", length);
+    return
   };
 
 
